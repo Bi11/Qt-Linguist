@@ -1,0 +1,3 @@
+[submodule "src/qttools"]
+	path = src/qttools
+	url = git@github.com:Bi11/qttools.git
